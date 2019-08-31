@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd179f28.chunk.css",
+    "main.js": "/static/js/main.ab771436.chunk.js",
+    "main.js.map": "/static/js/main.ab771436.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.d308d2b6.chunk.js": "/static/js/2.d308d2b6.chunk.js",
+    "static/js/2.d308d2b6.chunk.js.map": "/static/js/2.d308d2b6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d7fd73bfa8e5a84693e618d63b1a3d0b.js": "/precache-manifest.d7fd73bfa8e5a84693e618d63b1a3d0b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.fd179f28.chunk.css.map": "/static/css/main.fd179f28.chunk.css.map",
+    "static/media/Vue.js_Logo_2.svg": "/static/media/Vue.js_Logo_2.9075ee3c.svg",
+    "static/media/aws.svg": "/static/media/aws.023f43a7.svg",
+    "static/media/docker-icon.svg": "/static/media/docker-icon.a3cc1af0.svg",
+    "static/media/expressjs-icon.svg": "/static/media/expressjs-icon.9de32921.svg",
+    "static/media/fir.svg": "/static/media/fir.bfa69c4f.svg",
+    "static/media/js.svg": "/static/media/js.f2bd0c0c.svg",
+    "static/media/la1.png": "/static/media/la1.579b7050.png",
+    "static/media/la2.png": "/static/media/la2.09025ac4.png",
+    "static/media/la3.png": "/static/media/la3.dd09564f.png",
+    "static/media/la4.png": "/static/media/la4.349d48a2.png",
+    "static/media/la5.png": "/static/media/la5.ac4ee58d.png",
+    "static/media/react.svg": "/static/media/react.4009eef3.svg",
+    "static/media/sinsharingan.png": "/static/media/sinsharingan.fdad22d6.png"
+  }
+}
